@@ -1,0 +1,3 @@
+[submodule "e-tracker-client"]
+	path = e-tracker-client
+	url = https://github.com/bc183/e-tracker-client.git
